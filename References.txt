@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Platonic_solid
+https://en.wikipedia.org/wiki/Cyclic_permutation
+http://glprogramming.com/red/chapter02.html
+https://docs.blender.org/api/current/
+https://docs.python.org/3/
+

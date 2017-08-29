@@ -1,0 +1,4 @@
+1. Add a routine to visualize each normal vector
+2. Start an animation
+3. Add routines for the subdivision process
+4. Animate the subdivision process

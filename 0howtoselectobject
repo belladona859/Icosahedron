@@ -1,0 +1,14 @@
+bpy.data.objects['Sphere.017']
+refers to an object.
+
+A python script can do something with that.
+
+You can also use
+
+bpy.data.objects['Cube'].select = True
+# to select the object in the 3D viewport,
+# this way you can also select multiple objects
+
+# additionally you can use
+bpy.context.scene.objects.active = bpy.data.objects['Sphere.017']
+# to make it the active selected object
